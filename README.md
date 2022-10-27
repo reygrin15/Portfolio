@@ -1,7 +1,7 @@
 # PortFolio
 This Portfolio is a small project using HTML / CSS and Bootsrap. I will be using this to showcase my projects!
 
-[Live replit\ Deployment]()
+[Live replit Deployment](https://portfolio.rayg11.repl.co/)
 
 
  <img width="1080" alt="image" src="">
